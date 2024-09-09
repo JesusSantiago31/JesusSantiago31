@@ -2,7 +2,7 @@
 ## I am Jesus SSC
 
 <!--- stats & Trophy (start) -->
-
+   
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
