@@ -2,7 +2,7 @@
 ## I am Jesus SSC
 * This is my GitHub profile where I upload all the knowledge I'm acquiring at the Tecnológico de Estudios Superiores de Jilotepec, and on my own.
 * I'm currently interested in learning new programming languages, to be a great developer, having different alternatives and analyzing in certain specific circumstances the best programming language to achieve an efficient program.
-* I will be updating all the programs that I will be coding, some courses that I find interesting or activities that I do at school.
+* I will be updating all the programs that I will be coding, from some courses that I find interesting or activities that I do at school.
 
 
 
